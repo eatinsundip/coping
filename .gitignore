@@ -1,0 +1,15 @@
+# Build output
+iputils/build/
+install/
+
+# Compiled mechanisms
+mechanisms/*.so
+
+# Python cache (leftover prototype)
+__pycache__/
+*.pyc
+coping.py
+
+# Editor
+.vscode/
+*.swp
