@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<head><title>coping apt repository</title></head>
+<body>
+<pre>
+coping apt repository
+
+Add this repo:
+
+  curl -fsSL https://eatinsundip.github.io/coping/KEY.gpg | sudo gpg --dearmor -o /etc/apt/trusted.gpg.d/coping.gpg
+  echo "deb [signed-by=/etc/apt/trusted.gpg.d/coping.gpg] https://eatinsundip.github.io/coping stable main" | sudo tee /etc/apt/sources.list.d/coping.list
+  sudo apt-get update
+  sudo apt-get install coping
+</pre>
+</body>
+</html>

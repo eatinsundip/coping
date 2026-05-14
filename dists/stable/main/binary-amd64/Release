@@ -1,0 +1,5 @@
+Component: main
+Origin: coping
+Label: coping
+Architecture: amd64
+Description: ping, but with AI context you didn't ask for

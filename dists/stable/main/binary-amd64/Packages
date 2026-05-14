@@ -1,0 +1,19 @@
+Package: coping
+Version: 0.1.0
+Architecture: amd64
+Maintainer: eatinsundip <eatinsundip@users.noreply.github.com>
+Depends: libcurl4
+Priority: optional
+Section: net
+Filename: pool/main/c/coping/coping_0.1.0_amd64.deb
+Size: 45066
+SHA256: b665dedc07114fb53b85dddb7bf307691752e9399c16f6b5b0d790b256fa30e0
+SHA1: 01e48ba4608e5b33cfdca77c58118e4600086faa
+MD5sum: 41bf8f58e3ed44dffda8f46564a1675e
+Description: ping, but with AI context you didn't ask for
+ A fork of iputils ping that adds mandatory Claude AI commentary
+ to every network diagnostic session. Mechanisms are installable
+ .so addons that extend the unnecessary context pipeline.
+ .
+ Requires ANTHROPIC_API_KEY to function. As intended.
+

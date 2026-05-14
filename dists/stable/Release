@@ -1,0 +1,19 @@
+Origin: coping
+Label: coping
+Codename: stable
+Date: Thu, 14 May 2026 14:44:56 UTC
+Architectures: amd64
+Components: main
+Description: ping, but with AI context you didn't ask for
+MD5Sum:
+ 0a7b201de4628d702eede33b96ff00d7 693 main/binary-amd64/Packages
+ 26b0372bd3cc1a7a35fd2926dc6491fd 499 main/binary-amd64/Packages.gz
+ e10da0b5138dd8727609e0363bcf72e2 123 main/binary-amd64/Release
+SHA1:
+ 46b495385daf82d5d69b87cc8eff54a977037c12 693 main/binary-amd64/Packages
+ 34c5d4bae261142076c9f02e98ef3cc33685d2e1 499 main/binary-amd64/Packages.gz
+ dc0d9835c05963af83ec3fb85834ac6689578459 123 main/binary-amd64/Release
+SHA256:
+ 6ce8b5ff7a90742d3ca3fd6ce1b020913cd55938bcea86a2ebac629b0deb4eac 693 main/binary-amd64/Packages
+ 5d91d1a7dd93c61ed8586939844e3e6d1f399d2bb2c88d5531ce80ab381470ac 499 main/binary-amd64/Packages.gz
+ 55106dac97a6af17a761a6eb698746977cf45853c5ef86580ecc12fa3ad86b7e 123 main/binary-amd64/Release
